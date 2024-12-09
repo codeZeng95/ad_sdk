@@ -8,16 +8,17 @@
   <packaging>aar</packaging>
 
   <repositories>
-    <!-- 添加 Jitpack 仓库 -->
-    <repository>
-      <id>jitpack.io</id>
-      <url>https://jitpack.io</url>
-    </repository>
 
     <!-- 添加 Maven Central 仓库 -->
     <repository>
       <id>central</id>
       <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+
+    <!-- 添加 Jitpack 仓库 -->
+    <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
     </repository>
 
   </repositories>
