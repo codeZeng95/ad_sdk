@@ -44,6 +44,16 @@
   </build>
   <dependencies>
     <dependency>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>glide</artifactId>
+      <version>4.16.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.liujingxing.rxhttp</groupId>
+      <artifactId>rxhttp</artifactId>
+      <version>3.0.0</version>
+    </dependency>
+    <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
       <version>8.5.0</version>
@@ -59,14 +69,19 @@
       <version>1.7.0</version>
     </dependency>
     <dependency>
-      <groupId>com.github.bumptech.glide</groupId>
-      <artifactId>glide</artifactId>
-      <version>4.16.0</version>
-    </dependency>
-    <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
       <version>4.12.0</version>
+    </dependency>
+    <dependency>
+      <groupId>xyz.doikki.android.dkplayer</groupId>
+      <artifactId>dkplayer-java</artifactId>
+      <version>3.3.7</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>glide</artifactId>
+      <version>4.16.0</version>
     </dependency>
     <dependency>
       <groupId>com.github.liujingxing.rxhttp</groupId>
@@ -74,9 +89,9 @@
       <version>3.0.0</version>
     </dependency>
     <dependency>
-      <groupId>xyz.doikki.android.dkplayer</groupId>
-      <artifactId>dkplayer-java</artifactId>
-      <version>3.3.7</version>
+      <groupId>androidx.databinding</groupId>
+      <artifactId>viewbinding</artifactId>
+      <version>8.5.0</version>
     </dependency>
   </dependencies>
 </project>
