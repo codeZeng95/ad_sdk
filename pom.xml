@@ -59,11 +59,6 @@
       <version>1.7.0</version>
     </dependency>
     <dependency>
-      <groupId>com.github.getActivity</groupId>
-      <artifactId>ShapeView</artifactId>
-      <version>9.2</version>
-    </dependency>
-    <dependency>
       <groupId>com.github.bumptech.glide</groupId>
       <artifactId>glide</artifactId>
       <version>4.16.0</version>
@@ -82,11 +77,6 @@
       <groupId>xyz.doikki.android.dkplayer</groupId>
       <artifactId>dkplayer-java</artifactId>
       <version>3.3.7</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>viewbinding</artifactId>
-      <version>8.5.0</version>
     </dependency>
   </dependencies>
 </project>
