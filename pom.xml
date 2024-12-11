@@ -10,10 +10,10 @@
   <repositories>
 
     <!-- 添加 Maven Central 仓库 -->
-    <repository>
+    <!--<repository>
       <id>central</id>
       <url>https://repo.maven.apache.org/maven2</url>
-    </repository>
+    </repository>-->
 
     <!-- 添加 Jitpack 仓库 -->
     <repository>
@@ -78,20 +78,6 @@
       <artifactId>dkplayer-java</artifactId>
       <version>3.3.7</version>
     </dependency>
-    <dependency>
-      <groupId>com.github.bumptech.glide</groupId>
-      <artifactId>glide</artifactId>
-      <version>4.16.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.github.liujingxing.rxhttp</groupId>
-      <artifactId>rxhttp</artifactId>
-      <version>3.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>viewbinding</artifactId>
-      <version>8.5.0</version>
-    </dependency>
+
   </dependencies>
 </project>
