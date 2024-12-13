@@ -79,5 +79,11 @@
       <version>3.3.7</version>
     </dependency>
 
+    <dependency>
+      <groupId>com.github.codeZeng95</groupId>
+      <artifactId>hs-lib</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+
   </dependencies>
 </project>
